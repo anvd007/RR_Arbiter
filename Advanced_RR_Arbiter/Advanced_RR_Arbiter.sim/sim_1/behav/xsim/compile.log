@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Nitish Adari/Advanced_RR_Arbiter/Advanced_RR_Arbiter.srcs/sources_1/new/A_RR_Arbiter.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module A_RR_Arbiter
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Nitish Adari/Advanced_RR_Arbiter/Advanced_RR_Arbiter.srcs/sim_1/new/rr_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module rr_tb

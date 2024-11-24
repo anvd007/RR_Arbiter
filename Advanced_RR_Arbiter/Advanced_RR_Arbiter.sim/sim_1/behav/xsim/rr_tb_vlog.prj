@@ -1,0 +1,10 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../Advanced_RR_Arbiter.srcs/sources_1/new/A_RR_Arbiter.v" \
+"../../../../Advanced_RR_Arbiter.srcs/sim_1/new/rr_tb.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
